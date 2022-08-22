@@ -1,0 +1,6 @@
+tuple1=(5,"Hello","PFSD",9.1)
+print(tuple1[2])
+print(tuple1[1:3])
+tuple(tuple1[2:])
+print(tuple1*2)
+print(tuple1+ tuple1)
